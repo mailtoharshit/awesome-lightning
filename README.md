@@ -25,7 +25,7 @@ Read [the awesome manifesto](https://github.com/mailtoharshit/awesome-salesforce
   * [Basics of Lightning components by Jitendra Zaa](http://www.jitendrazaa.com/blog/salesforce/getting-started-with-basics-of-lightning-component/)
   
 
-  ####Lightning Components Tutorials by MVP/Authors
+####Lightning Components Tutorials by MVP/Authors
   * [Building lightning components in Spring 15 by Jeff Doughlas](https://resources.docs.salesforce.com/sfdc/pdf/lightning.pdf)
   * [Video tutorials for Lightning Components by Paul Battisson](http://paulbattisson.com/category/salesforce/lightning/)
   * [Basics of Lightning components by Jitendra Zaa](http://www.jitendrazaa.com/blog/salesforce/getting-started-with-basics-of-lightning-component/)
