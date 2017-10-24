@@ -26,10 +26,11 @@ Read [the awesome manifesto](https://github.com/mailtoharshit/awesome-salesforce
 ## Lightning Components Guide and Tutorials
 
 #### Lightning Components Tutorials by Salesforce.com
+  * [An In-Depth Look at Lightning Component Events](https://developer.salesforce.com/blogs/developer-relations/2017/08/depth-look-lightning-component-events.html)
+  * [Basics of Lightning components by Jitendra Zaa](http://www.jitendrazaa.com/blog/salesforce/getting-started-with-basics-of-lightning-component/)
   * [Lightning Component developers guide](https://resources.docs.salesforce.com/sfdc/pdf/lightning.pdf)
   * [Lightning Components Trailhead Module](http://www.jitendrazaa.com/blog/salesforce/learning-lightning-component-trailhead-way/)
-  * [Basics of Lightning components by Jitendra Zaa](http://www.jitendrazaa.com/blog/salesforce/getting-started-with-basics-of-lightning-component/)
-  
+  * [Summer ’17 Highlight: Diving Into Lightning Data Service](https://developer.salesforce.com/blogs/developer-relations/2017/06/summer-17-highlight-diving-lightning-data-service.html)
 
 ####Lightning Components Tutorials by MVP/Authors
   * [Building lightning components in Spring 15 by Jeff Doughlas](https://resources.docs.salesforce.com/sfdc/pdf/lightning.pdf)
