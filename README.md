@@ -48,3 +48,4 @@ Read [the awesome manifesto](https://github.com/mailtoharshit/awesome-salesforce
   * [Loading External JavaScript And CSS Libraries To Lightning Components by Raja Rao DV](https://developer.salesforce.com/blogs/developer-relations/2015/05/loading-external-js-css-libraries-lightning-components.html)
   * [Rating Component by Peter Knolle](http://peterknolle.com/input-rating-lightning-component/)
   * [Input Lookup Component by Enrico Murru](https://developer.salesforce.com/blogs/developer-relations/2015/06/salesforce-lightning-inputlookup-missing-component.html?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+SforceBlog+%28Salesforce+Developers+Blog%29)
+  * [Lighting Strike Components by Appiphony](http://www.lightningstrike.io/)
