@@ -49,3 +49,10 @@ Read [the awesome manifesto](https://github.com/mailtoharshit/awesome-salesforce
   * [Rating Component by Peter Knolle](http://peterknolle.com/input-rating-lightning-component/)
   * [Input Lookup Component by Enrico Murru](https://developer.salesforce.com/blogs/developer-relations/2015/06/salesforce-lightning-inputlookup-missing-component.html?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+SforceBlog+%28Salesforce+Developers+Blog%29)
   * [Lighting Strike Components by Appiphony](http://www.lightningstrike.io/)
+  * [Date picker component By Caspar Harmer](https://github.com/rapsacnz/DatePicker)
+  * [Multi Select component By Caspar Harmer](https://github.com/rapsacnz/MultiSelect)
+  * [Duelling Picklist component By Caspar Harmer](https://github.com/rapsacnz/DualSelect)
+  * [Auto resizing textarea component By Caspar Harmer](https://github.com/rapsacnz/DynamicTextArea)
+  * [Combobox component By Caspar Harmer](https://github.com/rapsacnz/ComboBox)
+  * [Basic Lightning Framework By Caspar Harmer](https://github.com/rapsacnz/LightFrame)
+  
