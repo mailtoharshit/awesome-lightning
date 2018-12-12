@@ -34,6 +34,7 @@ Read [the awesome manifesto](https://github.com/mailtoharshit/awesome-salesforce
 
 #### Commonly Required Useful Documentation
   * [Component Library](https://developer.salesforce.com/docs/component-library)
+  * [Salesforce Lightning Design System (SLDS)](https://lightningdesignsystem.com/)
 
 #### Lightning Components Tutorials by MVP/Authors
   * [Building lightning components in Spring 15 by Jeff Doughlas](https://resources.docs.salesforce.com/sfdc/pdf/lightning.pdf)
