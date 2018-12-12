@@ -32,12 +32,18 @@ Read [the awesome manifesto](https://github.com/mailtoharshit/awesome-salesforce
   * [Lightning Components Trailhead Module](http://www.jitendrazaa.com/blog/salesforce/learning-lightning-component-trailhead-way/)
   * [Summer ’17 Highlight: Diving Into Lightning Data Service](https://developer.salesforce.com/blogs/developer-relations/2017/06/summer-17-highlight-diving-lightning-data-service.html)
 
+#### Commonly Required Useful Documentation
+  * [Component Library](https://developer.salesforce.com/docs/component-library)
+
 #### Lightning Components Tutorials by MVP/Authors
   * [Building lightning components in Spring 15 by Jeff Doughlas](https://resources.docs.salesforce.com/sfdc/pdf/lightning.pdf)
   * [Video tutorials for Lightning Components by Paul Battisson](http://paulbattisson.com/blog/)
   * [Basics of Lightning components by Jitendra Zaa](http://www.jitendrazaa.com/blog/salesforce/getting-started-with-basics-of-lightning-component/)
   * [How to inherit Lightning Components by Peter Knolle](http://peterknolle.com/lightning-component-inheritance/)
-  
+
+#### Lightning Components Development Trailmix
+  * [Learn everything about Lightning Component Development](https://trailhead.salesforce.com/en/users/00550000006G8vmAAC/trailmixes/learn-everything-about-lightning-component-development) - A trailmix specifically designed for learning Lightning Component Development
+
 ## AppExchange for Lightning Components
 
  * [Official Lightning Components MarketPlace](https://appexchange.salesforce.com/collection/components)- Where you once needed a developer to create components from scratch with code, now anyone can use pre-built components and compose an app with those components in no time. The AppExchange for Components provides a powerful array of components built by Salesforce Labs and Salesforce partners, making it easy for developers, partners, and customers to find and use components to build apps and pages fast.
