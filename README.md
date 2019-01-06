@@ -31,7 +31,7 @@ Read [the awesome manifesto](https://github.com/mailtoharshit/awesome-salesforce
   * [Lightning Component developers guide](https://resources.docs.salesforce.com/sfdc/pdf/lightning.pdf)
   * [Lightning Components Trailhead Module](http://www.jitendrazaa.com/blog/salesforce/learning-lightning-component-trailhead-way/)
   * [Summer ’17 Highlight: Diving Into Lightning Data Service](https://developer.salesforce.com/blogs/developer-relations/2017/06/summer-17-highlight-diving-lightning-data-service.html)
-
+  * [Lightning Service Components](https://developer.salesforce.com/blogs/2018/08/implement-and-use-lightning-service-components.html)
 #### Lightning Components Tutorials by MVP/Authors
   * [Building lightning components in Spring 15 by Jeff Doughlas](https://resources.docs.salesforce.com/sfdc/pdf/lightning.pdf)
   * [Video tutorials for Lightning Components by Paul Battisson](http://paulbattisson.com/blog/)
@@ -49,3 +49,4 @@ Read [the awesome manifesto](https://github.com/mailtoharshit/awesome-salesforce
   * [Rating Component by Peter Knolle](http://peterknolle.com/input-rating-lightning-component/)
   * [Input Lookup Component by Enrico Murru](https://developer.salesforce.com/blogs/developer-relations/2015/06/salesforce-lightning-inputlookup-missing-component.html?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+SforceBlog+%28Salesforce+Developers+Blog%29)
   * [Lighting Strike Components by Appiphony](http://www.lightningstrike.io/)
+  * [Dreamhouse sample app by Salesforce](https://github.com/dreamhouseapp/dreamhouse-sfdx)
