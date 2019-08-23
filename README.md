@@ -27,7 +27,7 @@ Read [the awesome manifesto](https://github.com/mailtoharshit/awesome-salesforce
   
 ## Lightning Components Guide and Tutorials
 
-#### LOfficial Salesforce Lightning web components
+#### Official Salesforce Lightning web components
  * [Lightning Web Components, A Blazing Fast, Enterprise-Grade Web Components Foundation](https://lwc.dev/)
 
 #### Lightning Components Tutorials by Salesforce.com
