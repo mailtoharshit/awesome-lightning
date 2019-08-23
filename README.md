@@ -23,7 +23,12 @@ Read [the awesome manifesto](https://github.com/mailtoharshit/awesome-salesforce
    * [Awesome Browser Extensions](https://github.com/mailtoharshit/awesome-browser-extensions-for-salesforce/blob/master/README.md)
    * [Awesome Heroku](https://github.com/mailtoharshit/awesome-heroku)
   
+  
+  
 ## Lightning Components Guide and Tutorials
+
+#### LOfficial Salesforce Lightning web components
+ * [Lightning Web Components, A Blazing Fast, Enterprise-Grade Web Components Foundation](https://lwc.dev/)
 
 #### Lightning Components Tutorials by Salesforce.com
   * [An In-Depth Look at Lightning Component Events](https://developer.salesforce.com/blogs/developer-relations/2017/08/depth-look-lightning-component-events.html)
