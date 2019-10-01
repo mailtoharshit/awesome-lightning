@@ -37,6 +37,7 @@ Read [the awesome manifesto](https://github.com/mailtoharshit/awesome-salesforce
   * [Lightning Components Trailhead Module](http://www.jitendrazaa.com/blog/salesforce/learning-lightning-component-trailhead-way/)
   * [Summer ’17 Highlight: Diving Into Lightning Data Service](https://developer.salesforce.com/blogs/developer-relations/2017/06/summer-17-highlight-diving-lightning-data-service.html)
   * [Lightning Service Components](https://developer.salesforce.com/blogs/2018/08/implement-and-use-lightning-service-components.html)
+  * [Caching and Synchronizing Component Data with Lightning Data Service](https://developer.salesforce.com/blogs/2019/09/caching-and-synchronizing-component-data-with-lightning-data-service.html)
 #### Lightning Components Tutorials by MVP/Authors
   * [Building lightning components in Spring 15 by Jeff Doughlas](https://resources.docs.salesforce.com/sfdc/pdf/lightning.pdf)
   * [Video tutorials for Lightning Components by Paul Battisson](http://paulbattisson.com/blog/)
