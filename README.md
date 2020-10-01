@@ -42,6 +42,7 @@ Read [the awesome manifesto](https://github.com/mailtoharshit/awesome-salesforce
   * [Video tutorials for Lightning Components by Paul Battisson](http://paulbattisson.com/blog/)
   * [Basics of Lightning components by Jitendra Zaa](http://www.jitendrazaa.com/blog/salesforce/getting-started-with-basics-of-lightning-component/)
   * [How to inherit Lightning Components by Peter Knolle](http://peterknolle.com/lightning-component-inheritance/)
+  * [Lightning Web Components Posts on WIPDeveloper.com](https://wipdeveloper.com/tags/lwc/) (Brett Nelson, [@brettmn](https://twitter.com/brettmn))
   
 ## AppExchange for Lightning Components
 
