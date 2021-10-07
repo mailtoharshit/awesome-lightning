@@ -56,3 +56,4 @@ Read [the awesome manifesto](https://github.com/mailtoharshit/awesome-salesforce
   * [Input Lookup Component by Enrico Murru](https://developer.salesforce.com/blogs/developer-relations/2015/06/salesforce-lightning-inputlookup-missing-component.html?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+SforceBlog+%28Salesforce+Developers+Blog%29)
   * [Lighting Strike Components by Appiphony](http://www.lightningstrike.io/)
   * [Dreamhouse sample app by Salesforce](https://github.com/dreamhouseapp/dreamhouse-sfdx)
+  * [Customizable Lookup Component by Philippe Ozil](https://github.com/pozil/sfdc-ui-lookup-lwc)
